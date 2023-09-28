@@ -13,7 +13,7 @@ Ball
 - characteristics (properties)
 	- name
 	- position
-- behaviors (actions; methods)
+- behaviors (actions, methods)
 	- move
 	- getPosition
 
